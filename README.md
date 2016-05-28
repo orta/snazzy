@@ -6,7 +6,7 @@ Snazzy on the other hand is to help you generate a README from the documentation
 
 Snazzy sits on-top of [SourceKitten](https://github.com/jpsim/SourceKitten), and works with the JSON API.
 
-This currently does nothing. This is [README driven development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
+This currently does nothing. This is [README driven development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html). It's based on some work I [did for RxSwiftCommunity](https://github.com/RxSwiftCommunity/RxSwiftExt/issues/39).
 
 ## Installation
 
